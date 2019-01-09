@@ -2,7 +2,7 @@
   "name": "react-portfolio",
   "version": "0.1.0",
   "private": true,
-    "homepage": "https://chris-rohrer.github.io/react-portfolio" ,
+  "homepage": "https://chris-rohrer.github.io/react-portfolio",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.7.0",
