@@ -1,8 +1,8 @@
 {
-  "name": "react-portfolio",
+  "name": "react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://chris-rohrer.github.io/react-portfolio",
+  "homepage": "https://chris-rohrer.github.io/react",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.7.0",
